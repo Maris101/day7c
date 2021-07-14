@@ -1,0 +1,19 @@
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#table1 {background-color: chartreuse;}
+
+#table2 {background-color: firebrick;}
+
+#header1 {color: rgb(34, 46, 146);}
+
+#header1 {font-weight: bold;}
+
+#header2 {color: honeydew;}
+
+#header2 {font-weight: bold;}
+
+#colgroup1 {background-color: rgb(128, 138, 128);}
+#colgroup2 {background-color: orange;}
